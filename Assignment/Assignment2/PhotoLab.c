@@ -1,5 +1,7 @@
 /*********************************************************************/
-/* PhotoLab.c: Assignment 2 for EECS 22, Winter 2024                 */
+/* PhotoLab.c: Assignment 2 for EECS 22, Winter 2025                 */
+/* Name: Hoon Yang                                                   */
+/* Date: 01/15/2025                                                  */
 /*********************************************************************/
 
 #include <stdio.h>
